@@ -49,7 +49,8 @@ public/css/style.css
 
 ## Screenshot
 
-<img width="1600" height="900" alt="Image" src="https://github.com/user-attachments/assets/31f52c27-1f2c-4200-9a6d-e46024c9f0ec" />
-<img width="1600" height="900" alt="Image" src="https://github.com/user-attachments/assets/a4e554c8-4225-495b-aeb4-a4e151212961" />
-<img width="1600" height="900" alt="Image" src="https://github.com/user-attachments/assets/f0b2d245-5073-4d3b-a065-f20e86970c1b" />
-<img width="1600" height="900" alt="Image" src="https://github.com/user-attachments/assets/d50c6866-e08a-4cf1-8bb6-4b58b0b25b71" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/6b787853-24fb-45ba-bf57-7048dd5bc1bc" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/4268b0f4-40b9-4579-9e52-d8e22c17dd99" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/30ce3df1-0d72-47bd-8ed1-10ddd899a1f4" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/b672cf91-d159-4103-959a-803b57487eca" />
+
