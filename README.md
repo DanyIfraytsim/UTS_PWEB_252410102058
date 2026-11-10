@@ -59,12 +59,7 @@ Buka `http://127.0.0.1:8000`, isi username & password bebas (min. 3 dan 6 karakt
 
 ## Screenshot
 
-> Tambahkan screenshot setelah aplikasi dijalankan (simpan di folder `screenshots/`).
-
-| Login | Dashboard |
-| --- | --- |
-| ![Login](screenshots/login.png) | ![Dashboard](screenshots/dashboard.png) |
-
-| Pengelolaan | Profile |
-| --- | --- |
-| ![Pengelolaan](screenshots/pengelolaan.png) | ![Profile](screenshots/profile.png) |
+<img width="1600" height="900" alt="Image" src="https://github.com/user-attachments/assets/31f52c27-1f2c-4200-9a6d-e46024c9f0ec" />
+<img width="1600" height="900" alt="Image" src="https://github.com/user-attachments/assets/a4e554c8-4225-495b-aeb4-a4e151212961" />
+<img width="1600" height="900" alt="Image" src="https://github.com/user-attachments/assets/f0b2d245-5073-4d3b-a065-f20e86970c1b" />
+<img width="1600" height="900" alt="Image" src="https://github.com/user-attachments/assets/d50c6866-e08a-4cf1-8bb6-4b58b0b25b71" />
