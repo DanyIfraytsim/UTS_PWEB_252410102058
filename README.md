@@ -46,16 +46,6 @@ public/css/style.css
 | Request parameter | `?username=` dibaca lewat `$request->query('username')` |
 | Array rendering | `@foreach` / `@forelse` pada dashboard, pengelolaan, profile |
 
-## Cara Menjalankan
-
-```bash
-composer create-project laravel/laravel UTS_PWEB_252410102106
-cd UTS_PWEB_252410102106
-# salin file repo ini (routes, app, resources, public) ke dalam proyek, timpa jika diminta
-php artisan serve
-```
-
-Buka `http://127.0.0.1:8000`, isi username & password bebas (min. 3 dan 6 karakter).
 
 ## Screenshot
 
