@@ -1,6 +1,6 @@
 # UTS PWEB — CIGARRAY (Laravel + Blade, MVC)
 
-**NIM:** 252410102106
+**NIM:** 252410102058
 
 Aplikasi web **CIGARRAY**: sistem pengelolaan toko rokok sederhana (tampilan hitam putih) yang dibuat dengan Laravel murni (tanpa template UI siap pakai) untuk mempelajari alur **request → route → controller → view → response**.
 
